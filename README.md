@@ -1,5 +1,5 @@
-# readme.md
-# 👋 Hola, soy [Tu Nombre]
+
+# 👋 Hola, soy Sebastian angel
 
 ## 💻 Desarrollador Full Stack | Especialista MERN (MongoDB, Express, React, Node.js)
 
