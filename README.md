@@ -37,7 +37,7 @@ Busco formar parte de un equipo dinámico donde pueda aportar mis conocimientos 
 
 - [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
 - [Portfolio](https://tu-portfolio.com)  
-- 📧 tu.email@ejemplo.com  
+- 📧 sebatian.2307.s.a@gmail.com  
 
 ---
 
